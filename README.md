@@ -8,3 +8,15 @@
 5) C is popular for system level applications.
 6) C has wide variety of build in functions, header files, standard libraries.
 ```
+# Basic C Code
+```
+#include<stdio.h>
+int main()
+{
+  printf("Hello World");
+  return 0;
+ 
+}
+```
+# #include<stdio.h>
+Preprocessor : Replaces text (starting with #) with the actual content.
